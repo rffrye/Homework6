@@ -14,3 +14,13 @@ The framework was built using HTMl and a Bootstrap Framework, Javascript and Jqu
 https://rffrye.github.io/Homework6/
 
 https://github.com/rffrye/Homework6
+
+
+### Screen Shots
+
+
+![Landing Page](imgs/Landing.png)
+
+![First Search](imgs/FirstSearch.png)
+
+![Multiple Searches](imgs/MultipleSearches.png)
